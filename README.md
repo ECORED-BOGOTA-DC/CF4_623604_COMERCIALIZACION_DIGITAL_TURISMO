@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Bases del plan de mercadeo digital - Análisis situacional**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/CF4_623604_COMERCIALIZACION_DIGITAL_TURISMO/](https://ecored-sena.github.io/CF4_623604_COMERCIALIZACION_DIGITAL_TURISMO/)
+[https://ecored-bogota-dc.github.io/CF4_623604_COMERCIALIZACION_DIGITAL_TURISMO/#/](https://ecored-bogota-dc.github.io/CF4_623604_COMERCIALIZACION_DIGITAL_TURISMO/#/)
 
 #
 
