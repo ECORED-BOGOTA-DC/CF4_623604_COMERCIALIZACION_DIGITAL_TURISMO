@@ -6,7 +6,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Imagen decorativa")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra síntesis en un mapa conceptual donde de forma gráfica enumera los 4 temas de estudio: Análisis del microentorno, análisis del macroentorno, competencia y canales de distribución con los elementos mas importantes.")
     
     .row.justify-content-center
       .col-auto

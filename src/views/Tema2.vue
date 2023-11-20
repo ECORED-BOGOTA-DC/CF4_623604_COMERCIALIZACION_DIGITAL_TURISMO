@@ -24,7 +24,7 @@
     
     .row.justify-content-center.ampliarambos.fondo10.px-5.mb-5
       .col-lg-8.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img02.svg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema2/img02.svg', alt="Muestra texto PESTEL:<br>-Políticos<br>-Económicos<br>-Sociales<br>-Tecnológicos<br>-Ecológicos<br>-Legales")
       .col-12.bg6.p-4(data-aos="fade-left")
         p.mb-0 Este método o herramienta es usado en mercadeo para analizar y monitorear los factores del macroentorno que tienen impacto en una organización. Las resultas sirven para reconocer amenazas y debilidades, que después se utilizarán para completar un análisis DOFA. Este método de análisis externo toma su nombre de las iniciales (en inglés) de los factores externos a analizar. Para ilustrarlo mejor a continuación se exponen algunos ejemplos reales:
     
@@ -35,11 +35,11 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6.col-10.mb-4(data-aos="fade-right")
         LineaTiempoD
-          p(numero="P" titulo="Factores políticos <em>(Political)</em>") Un ejemplo de esto es cuando el gobierno a final de 2020 (3 de diciembre), decretó algunas medidas de alivio tributario para el sector turístico. Algunas de estas fueron: a) La reducción del 19% al 5% en el IVA en los tiquetes aéreos; b) El no cobro de IVA a los hoteles durante 2021, c) La suspensión transitoria del pago de la sobretasa a la energía; y d) la eliminación al pago de la sanción para la reactivación del Registro Nacional de Turismo (RNT).
-          p(numero="E" titulo="Factores económicos <em>(Economic)</em>") Recientemente (julio de 2021) Colombia perdió el grado de inversión y entre las consecuencias se podría presentar a) presión alcista al dólar, b) aumento en la deudas adquiridas en dólares, c) disminución de la inversión extranjera, d) aumento en las tasas de interés. Todos estos factores podrían afectar a empresas o emprendimientos del sector turismo.
+          p(numero="P" titulo="Factores políticos (Political)") Un ejemplo de esto es cuando el gobierno a final de 2020 (3 de diciembre), decretó algunas medidas de alivio tributario para el sector turístico. Algunas de estas fueron: a) La reducción del 19% al 5% en el IVA en los tiquetes aéreos; b) El no cobro de IVA a los hoteles durante 2021, c) La suspensión transitoria del pago de la sobretasa a la energía; y d) la eliminación al pago de la sanción para la reactivación del Registro Nacional de Turismo (RNT).
+          p(numero="E" titulo="Factores económicos (Economic)") Recientemente (julio de 2021) Colombia perdió el grado de inversión y entre las consecuencias se podría presentar a) presión alcista al dólar, b) aumento en la deudas adquiridas en dólares, c) disminución de la inversión extranjera, d) aumento en las tasas de interés. Todos estos factores podrían afectar a empresas o emprendimientos del sector turismo.
           p(numero="S" titulo="Factores sociales (Social)") Los cambios en la forma de viajar a causa de la pandemia, son un ejemplo de los factores que las empresas del sector deben analizar y tener en cuenta, ya que serán preponderantes en el futuro.<br> <br> Otro ejemplo podrían ser los índices de desempleo o la falta de personal calificado.
-          p(numero="T" titulo="Factores tecnológicos <em>(Technological)</em>") El aumento de la intermediación en la comercialización del sector se basan en tecnología, allí las empresas deben preguntarse si cuentan con todas las herramientas tecnológicas necesarias para tener una eficiente gestión frente a este nuevo escenario.
-          p(numero="E" titulo="Factores medioambientales <em>(Enviromental)</em>") Día a día el interés por la conservación del medioambiente se vuelve un tema predominante, esto afecta directamente al sector turístico, toda vez que los clientes exigirán cada vez más que la industria tenga políticas claras en este aspecto.
+          p(numero="T" titulo="Factores tecnológicos (Technological)") El aumento de la intermediación en la comercialización del sector se basan en tecnología, allí las empresas deben preguntarse si cuentan con todas las herramientas tecnológicas necesarias para tener una eficiente gestión frente a este nuevo escenario.
+          p(numero="E" titulo="Factores medioambientales (Enviromental)") Día a día el interés por la conservación del medioambiente se vuelve un tema predominante, esto afecta directamente al sector turístico, toda vez que los clientes exigirán cada vez más que la industria tenga políticas claras en este aspecto.
           p(numero="L" titulo="Factores legales (Legal)") Estos factores analizan la normatividad vigente que afecta al sector y los posibles cambios que lo puedan afectar o beneficiar.
       .col-lg-6.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img04.png', alt="Imagen decorativa")
@@ -64,7 +64,7 @@
           h5 Figura 3. 
           span Matriz DOFA
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img6.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema2/img6.svg', alt="Muestra cuadro con matriz DOFA<br>describe debilidades y fortalezas<br>Estrategias  matriz<br>Estrategias DO<br>Estrategias FO<br>Estrategias DA<br>Estrategias FA<br>Factores externos<br>Amenazas<br>oportunidades")
       .col-12.bg6.p-4(data-aos="fade-right")
         p.mb-0 Ahora que ya se tienen identificados los mencionados ítems, el siguiente paso es vincular en la matriz cada amenaza y oportunidad identificada en el macroentorno con las debilidades y fortalezas propias, para desarrollar líneas de actuación estratégicas específicas para guiar las actividades. 
     
@@ -80,9 +80,9 @@
           h5 Figura 4.
           span Modelo Canvas
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img07.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema2/img07.svg', alt="Muestra texto modelo canvas<br>socios clave<br>actividades clave<br>recursos clave<br>propuesta valor<br>relación con clientes<br>canales de distribución<br>segmentos de mercado<br>estructura costos<br>flujo de ingresos")
     
-    p.mb-5(data-aos="fade-right") El <em>“Business Model Canvas”</em> fue desarrollado por Alex Osterwalder en el libro <em>“Business Model Generation”</em> y propone un proceso sistemático para analizar las ideas de negocio de una forma más rápida y eficaz, incrementando las oportunidades de éxito. Uno de los apartes de la introducción de esta obra expone lo siguiente:
+    p.mb-5(data-aos="fade-right") El “Business Model Canvas” fue desarrollado por Alex Osterwalder en el libro “Business Model Generation” y propone un proceso sistemático para analizar las ideas de negocio de una forma más rápida y eficaz, incrementando las oportunidades de éxito. Uno de los apartes de la introducción de esta obra expone lo siguiente:
     
     .row.justify-content-center.mb-5
       .col-lg-10.fonta.px-4(data-aos="fade-up-left")

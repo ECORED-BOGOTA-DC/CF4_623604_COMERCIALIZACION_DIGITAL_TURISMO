@@ -54,7 +54,7 @@
             | Ser medible.  
           li(data-aos="fade-left")
             i.fas.fa-check(style="color: #ED7D41")
-            | Ser alcanzable, 
+            | Ser alcanzable.
           li(data-aos="fade-left")
             i.fas.fa-check(style="color: #ED7D41")
             | Ser relevante.
@@ -74,7 +74,7 @@
       .col-lg-11
         p(data-aos="fade-right") Para lograr el cometido de establecer objetivos claros, pero sobre todo realistas y cumplibles, se apoyará en la técnica SMART (Jiménez, 2021), que proviene de un acrónimo en inglés que significa: 
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img06.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img06.svg', alt="Muestra técnica Smart donde cada letra identifica Que? Cuanto? Como? Con que? Cuando?<br>OBJETIVOS<br>-Específicos<br>-Medibles<br>-Alcanzable<br>-Realista<br>-Tiempo")
     
     p.mb-5(data-aos="fade-right") Para lograr establecer los objetivos de mercadeo bajo la técnica SMART, en el siguiente recurso educativo podrá ver ejemplos de un caso aplicado a la industria turística (hotel).
     
@@ -90,7 +90,7 @@
             ul.lista-ul
               li
                 i.fas.fa-check(style="color: #ED7D41")
-                p.mb-0 “Aumentar las visitas a la página #[em web] y aumentar el 10% las ventas por el canal #[em web]”
+                p.mb-0 “Aumentar las visitas a la página web y aumentar el 10% las ventas por el canal web”
               li
                 i.fas.fa-check(style="color: #ED7D41")
                 p.mb-0 Una vez planteado el objetivo debe asegurarse de qué forma va a conocer la medida, es decir, establecer un indicador que  permita medir el objetivo. 
@@ -99,7 +99,7 @@
                 p.mb-0 Los indicadores o KPI #[em (Key Performance Indicator)] por sus siglas en inglés, son el método idóneo.
               li
                 i.fas.fa-check(style="color: #ED7D41")
-                p.mb-0 Para este caso puntual una herramienta como Google Analytics podría dar la información del número de visitas a nuestra #[em web], si este número aumentó en un período de tiempo y con estos cálculos saber si esas visitas se convirtieron en ventas y se logró el objetivo de aumentar los ingresos por el canal #[em web].
+                p.mb-0 Para este caso puntual una herramienta como Google Analytics podría dar la información del número de visitas a nuestra web, si este número aumentó en un período de tiempo y con estos cálculos saber si esas visitas se convirtieron en ventas y se logró el objetivo de aumentar los ingresos por el canal web.
           p(numero="A" titulo="El objetivo debe ser alcanzable ¿Cómo?") Está claro que al plantear objetivos se encuentra  planteando un reto y como cualquier reto debe conllevar un esfuerzo en su logro, pero debe ser cuidadoso en no plantear metas imposibles, porque solo conseguirá frustraciones. A manera de ejemplo.<br> <br> “Si este año ha facturado $50.000.000, qué tan probable es que el próximo año venda $500.000.000. Es una meta que difícilmente alcanzará”.<br> <br> Pero esto es en realidad bastante simple, ya que por lo general se parte de la situación en la que se encuentra la empresa y, con base en esa información, debe prever un crecimiento razonable con los resultados logrados hasta ahora.
           p(numero="R" titulo="El objetivo debe ser relevante  ¿Con qué?") ¿De qué servirá alcanzar un objetivo irrelevante para  el negocio? Como se mencionó, los objetivos de mercadeo deben contribuir a la meta principal que se marque.<br> <br> Si a manera de ejemplo, la meta es incrementar la facturación anual, el objetivo debe definirse en pos de ese crecimiento. De otra forma estará dilapidando tiempo, esfuerzo y dinero.<br> <br>Por ejemplo:<br> “Si plantea una inversión en Facebook Ads y logra incrementar el número de fans de la página, pero no hace nada por convertir estos fans en clientes, estará perdiendo dinero”.<br> <br> Aquí la pregunta es ¿tener más o menos seguidores contribuye a la facturación anual del negocio? Y la respuesta será que no. El objetivo delimitado son clientes, no seguidores de la #[em fanpage] de Facebook que ni interactúan, ni compran.
           p(numero="T" titulo="El objetivo debe estar delimitado en el tiempo  ¿Cuándo?") Los objetivos siempre han de tener una ventana de tiempo, esto ayuda a la medición y al enfoque que se da. Al establecer objetivos en el plan siempre tenga en cuenta si son de corto, mediano y largo plazo, y que sus tiempos estén articulados entre sí. Existirá alguno cuya duración sea una campaña (días), otros como las metas de ventas que duren hasta un año, pero con mediciones parciales (meses).
@@ -180,14 +180,14 @@
         .row.justify-content-center(titulo="")
           .col-lg-6.order-lg-1.order-2
             p <strong>3. Implemente una cultura basada en datos </strong>
-            p.mt-4 Hay una verdad que es incontrovertible, los datos son hoy un activo de alto valor para cualquier negocio. Según diferentes estudios, cada día se crean en Internet más de 2,5 billones de bytes de datos y esta cifra sigue en aumento. Por esta razón, aplicar analítica de datos en los procesos de su empresa es imprescindible. Saber cuál es el desempeño de su talento, el comportamiento de sus clientes, la calidad de su producto con base en el registro y la interpretación de los datos le permitirá adoptar las decisiones más eficientes para su negocio. 
+            p.mt-4 Hay una verdad que es incontrovertible, los datos son hoy un activo de alto valor para cualquier negocio. Según diferentes estudios, cada día se crean en Internet más de 2,5 billones de #[em bytes] de datos y esta cifra sigue en aumento. Por esta razón, aplicar analítica de datos en los procesos de su empresa es imprescindible. Saber cuál es el desempeño de su talento, el comportamiento de sus clientes, la calidad de su producto con base en el registro y la interpretación de los datos le permitirá adoptar las decisiones más eficientes para su negocio. 
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/img17.png', alt="Imagen decorativa")
         .row.justify-content-center(titulo="")
           .col-lg-6.order-lg-1.order-2
             p <strong>4. Adopte la transformación digital </strong>
-            p.mt-4 Como se vio la producción de datos y a su lado los avances tecnológicos suceden a una velocidad abrumadora. En este sentido, la transformación digital no es una opción es una necesidad, si quiere mantener una presencia de marca. <em>InboundCycle</em>, una consultora de mercadeo define la transformación digital como “el proceso a través del cual una empresa o negocio incorpora nuevas tecnologías y procesos digitales con el objetivo de conseguir ser una empresa más eficiente adaptada a su entorno” (León & Castan, 2018). La transformación digital impacta a toda la organización, el uso de equipo y <em>software</em> especializado, adopción de múltiples canales de comunicación (tanto la interna como la que dirige hacia su mercado), automatización de procesos y un enfoque de productividad basado en la experiencia del cliente y el bienestar del talento humano son temas inaplazables.
+            p.mt-4 Como se vio la producción de datos y a su lado los avances tecnológicos suceden a una velocidad abrumadora. En este sentido, la transformación digital no es una opción es una necesidad, si quiere mantener una presencia de marca. InboundCycle, una consultora de mercadeo define la transformación digital como “el proceso a través del cual una empresa o negocio incorpora nuevas tecnologías y procesos digitales con el objetivo de conseguir ser una empresa más eficiente adaptada a su entorno” (León & Castan, 2018). La transformación digital impacta a toda la organización, el uso de equipo y <em>software</em> especializado, adopción de múltiples canales de comunicación (tanto la interna como la que dirige hacia su mercado), automatización de procesos y un enfoque de productividad basado en la experiencia del cliente y el bienestar del talento humano son temas inaplazables.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/img18.png', alt="Imagen decorativa")
@@ -312,12 +312,12 @@
             p.mb-0 Tras haber revisado el plan de negocios de su emprendimiento o negocio, a la luz de las diferentes herramientas descritas en los puntos anteriores. Haber clarificado cuál es su propuesta de valor y los segmentos de clientes a los que se dirige, ha llegado el momento de comprender si el posicionamiento y diferenciación de su marca son coherentes y eficaces para alcanzar los objetivos estratégicos definidos.
     
     p(data-aos="fade-right") A medida que la globalización expande los mercados con clientes hiperconectados y cada vez más informados, se hace más difícil posicionarse en la mente del cliente. Encontrar ese factor diferencial que hace que consuman el producto o servicio, debe ser una preocupación constante de los empresarios.
-    p.mb-5(data-aos="fade-right") Es por eso que se hace necesario mantener un estudio y análisis juicioso y permanente sobre el mercado (clientes y competencia), y lograr comunicar efectivamente esas características diferenciales es preponderante para cualquier actividad empresarial, tanto en el posicionamiento de la marca como en el #[em branding], como se aprecia en la siguiente tabla.
+    p.mb-5(data-aos="fade-right") Es por eso que se hace necesario mantener un estudio y análisis juicioso y permanente sobre el mercado (clientes y competencia), y lograr comunicar efectivamente esas características diferenciales es preponderante para cualquier actividad empresarial, tanto en el posicionamiento de la marca como en el branding, como se aprecia en la siguiente tabla.
     
     .row.mb-5
       .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
         h5 Tabla 1.
-        span  Diferencia entre posicionamiento de marca y branding
+        span Diferencia entre posicionamiento de marca y branding
       .tabla
         table
           thead(data-aos="fade-right")
@@ -337,7 +337,7 @@
                   li 
                     i.fa.fa-dot-circle(style="color: #FF854E")
                     p.mb-0 Samsung - calidad.
-              td.mb-0 Y del #[em branding], que es el término acuñado por la industria para referirse al universo alrededor de la marca y que se constituye por materiales publicitarios, eventos, relaciones con los medios, experiencia de cliente, usabilidad del producto, servicio postventa, recomendaciones voz  a voz y acciones de comunicación coherentes con los valores del segmento de clientes al que se dirige.
+              td.mb-0 Y del branding, que es el término acuñado por la industria para referirse al universo alrededor de la marca y que se constituye por materiales publicitarios, eventos, relaciones con los medios, experiencia de cliente, usabilidad del producto, servicio postventa, recomendaciones voz  a voz y acciones de comunicación coherentes con los valores del segmento de clientes al que se dirige.
     
     .row.justify-content-center.align-items-center.fondo6.p-3.mb-5
       .col-lg-8.order-lg-1.order-2
@@ -355,14 +355,14 @@
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img33.png', alt="Imagen decorativa")
     
-    p.mb-5(data-aos="fade-right") El objetivo final del <em>branding</em> es desarrollar un posicionamiento exitoso en la mente de los consumidores para que compren sus productos en lugar de los de la competencia.
+    p.mb-5(data-aos="fade-right") El objetivo final del branding es desarrollar un posicionamiento exitoso en la mente de los consumidores para que compren sus productos en lugar de los de la competencia.
     
     .row.justify-content-center.aling-items-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img34.png', alt="Imagen decorativa")
       .col-lg-6(data-aos="fade-left")
         .cajon.color-secundario.fondo1.p-4.mb-4
-          p.mb-0 El <em>branding</em> es un proceso mientras que el posicionamiento es un resultado. Todos los productos tienen una marca o logo hoy en día; pero solamente unos pocos han logrado posicionarse en la mente de los consumidores. No es sencillo pero el posicionamiento es lo que permitirá que los consumidores estén dispuestos a pagar más por su marca o a elegirla frente a la competencia.
+          p.mb-0 El branding es un proceso mientras que el posicionamiento es un resultado. Todos los productos tienen una marca o logo hoy en día; pero solamente unos pocos han logrado posicionarse en la mente de los consumidores. No es sencillo pero el posicionamiento es lo que permitirá que los consumidores estén dispuestos a pagar más por su marca o a elegirla frente a la competencia.
         p.mb-0 Luego de haber estudiado a fondo las líneas estratégicas, tener los objetivos establecidos y un panorama estratégico, el plan de mercadeo digital se adentra en el mercadeo operativo, es decir, en convertir las estrategias en acciones concretas.
     
     p.mb-5(data-aos="fade-right") La siguiente figura aclara un poco más cómo ha sido la evolución de herramientas en el #[em marketing], para continuar con una explicación más detallada posteriormente:
@@ -373,16 +373,16 @@
           h5 Figura 1. 
           span Evolución de herramientas en el #[em marketing]
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img35.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img35.svg', alt="Imagen que muestra 4 iconos con las herramientas en el marketing y se describen en la parte inferior")
     
-    p.mb-5(data-aos="fade-right") Para lograr estructurar este apartado se debe hablar del concepto de #[span.etiqueta #[em marketing mix] o mezcla de mercadeo, que se define como el conjunto de herramientas sobre las que se concretan los objetivos y metas.] Estas variables se identifican como las 4 P’s del mercadeo por su nombre en inglés, estas fueron denominadas así por <span style="color:#EB6F2D!important; font-weight:bold;">Jerome McCarthy</span> en 1960 y se encuentran descritas en el siguiente recurso educativo: 
+    p.mb-5(data-aos="fade-right") Para lograr estructurar este apartado se debe hablar del concepto de #[span.etiqueta #[em marketing mix] o mezcla de mercadeo, que se define como el conjunto de herramientas sobre las que se concretan los objetivos y metas.] Estas variables se identifican como las 4 P del mercadeo por su nombre en inglés, estas fueron denominadas así por <span style="color:#EB6F2D!important; font-weight:bold;">Jerome McCarthy</span> en 1960 y se encuentran descritas en el siguiente recurso educativo: 
     
     .row.ampliarambos.mb-5
       .col-12.px-0(data-aos="fade-up-left")
         ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/tema1/img36.svg', alt="Imagen decorativa").p-5
+              img(src='@/assets/curso/tema1/img36.svg', alt="Muestra infografía de las 4P, producto, precio, promoción y plaza o distribución y se describen en la parte inferior").p-5
           div(x="58%" y="56.7%" tooltip="Click para leer mas..." numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-6.order-lg-1.order-2
@@ -401,7 +401,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-6.order-lg-1.order-2
                 h4 3. Promoción 
-                p En este apartado se habla de las acciones necesarias para poner el producto al alcance del cliente y poder venderlo. Integra todas las actividades logísticas y los diferentes canales de distribución disponibles (propios como una tienda #[em online] en la #[em web] corporativa o de terceros como las ventas a través de <em>Marketplace</em>). 
+                p En este apartado se habla de las acciones necesarias para poner el producto al alcance del cliente y poder venderlo. Integra todas las actividades logísticas y los diferentes canales de distribución disponibles (propios como una tienda #[em online] en la web corporativa o de terceros como las ventas a través de Marketplace). 
               .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/img40.svg', alt="Imagen decorativa")
           div(x="58%" y="32%" tooltip="Click para leer mas..." numero="+")
@@ -434,13 +434,13 @@
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-9.order-lg-1.order-2
             h4 <span style="background-color: #D4EEFF; padding: 5px">Ejemplo</span>
-            p El hotel ABC puede decidir centrar todos sus esfuerzos digitales en promocionar únicamente planes fin de semana <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> con un importante descuento <span style="color:#EB6F2D!important; font-weight:bold;">(precio)</span>, utilizando exclusivamente #[e Google AdWords] <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span> a través de su página #[em web] <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> para fortalecer las ventas del fin de semana. 
-            p.mb-0 Mientras que el hotel XYZ ha optado por ofrecer todo su portafolio completo <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> a través de un #[em marketplace] <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> al mismo precio de su sitio #[em web] (precio), presentando este nuevo proyecto mediante un gran evento con #[em bloggers] y periodistas <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span>.
+            p El hotel ABC puede decidir centrar todos sus esfuerzos digitales en promocionar únicamente planes fin de semana <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> con un importante descuento <span style="color:#EB6F2D!important; font-weight:bold;">(precio)</span>, utilizando exclusivamente #[e Google AdWords] <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span> a través de su página web <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> para fortalecer las ventas del fin de semana. 
+            p.mb-0 Mientras que el hotel XYZ ha optado por ofrecer todo su portafolio completo <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> a través de un #[em marketplace] <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> al mismo precio de su sitio web (precio), presentando este nuevo proyecto mediante un gran evento con #[em bloggers] y periodistas <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span>.
           .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img41.png', alt="Imagen decorativa")
         .row.justify-content-center
           .cajon.puntacajon.bg3.sombracajon.p-4
-            h4 Evolución de las 4P’s en el #[em marketing mix]
+            h4 Evolución de las 4 P en el #[em marketing mix]
             p.mb-0 Así como ha evolucionado el internet y la metamorfosis de los clientes, el mercado también ha tenido una transformación, tomando como base la conceptualización de las cuatro (4) P’s, de McCarthy, otros autores han ido añadiendo valor y variables a este concepto de acuerdo a las perspectivas y enfoques de cada uno.
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
@@ -480,7 +480,7 @@
     
     .row.justify-content-center.bg3.p-4.mb-5
       .col-lg-11(data-aos="flip-up") 
-        p.mb-0 A principios de los años 80 los autores Bernard Booms y Mary Bitner extendieron el #[em marketing mix] del modelo conocido tradicional de las 4P’s de McCarthy a un modelo de 7P’s.
+        p.mb-0 A principios de los años 80 los autores Bernard Booms y Mary Bitner extendieron el #[em marketing mix] del modelo conocido tradicional de las 4 P de McCarthy a un modelo de 7 P.
     
     p.mb-5(data-aos="fade-right") Ellos incorporaron tres nuevos elementos como son: personas <span style="color:#EB6F2D!important; font-weight:bold;"><em>(people)</em></span>, procesos <span style="color:#EB6F2D!important; font-weight:bold;"><em>(process)</em></span> y evidencia física <span style="color:#EB6F2D!important; font-weight:bold;"><em>(physical evidence)</em></span>. Según explican los autores esta extensión del modelo se enfocó en la humanización del servicio al tratar temas como las políticas de atención al cliente y una mayor interacción e información con el cliente. Vea estos nuevos componentes del <em>mix</em>  un poco más a fondo.
     
@@ -520,12 +520,12 @@
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
             h4 (P9) Predicción <em>(Prediction)</em>
-            p.mb-0 El último elemento de estos ítems evolucionados es la predicción. Esta se conduce con base en datos históricos, tendencias y mediante algoritmos que permiten reducir la incertidumbre y calculan la optimización de los precios. En la industria turística (hoteles, restaurantes, aerolíneas, etc.) se utiliza el <em>Revenue management</em>, un elemento sumamente útil en la gestión moderna.
+            p.mb-0 El último elemento de estos ítems evolucionados es la predicción. Esta se conduce con base en datos históricos, tendencias y mediante algoritmos que permiten reducir la incertidumbre y calculan la optimización de los precios. En la industria turística (hoteles, restaurantes, aerolíneas, etc.) se utiliza el <em>revenue management</em>, un elemento sumamente útil en la gestión moderna.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/img52.png', alt="Imagen decorativa")
     
-    p(data-aos="fade-right") Estas 7P’s son la nueva energía de las empresas y en el mercadeo digital son un insumo prevalente para lograr la eficiencia, herramientas como <em>Google Analytics, Google Trends, GMetrix</em> y muchas otras son de uso necesario en la batalla por conseguir y mantener a sus clientes.
+    p(data-aos="fade-right") Estas 7P’s son la nueva energía de las empresas y en el mercadeo digital son un insumo prevalente para lograr la eficiencia, herramientas como Google Analytics, Google Trends, GMetrix y muchas otras son de uso necesario en la batalla por conseguir y mantener a sus clientes.
     
     separador
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -587,7 +587,7 @@
     
     .row.justify-content-center.fondo2.ampliarambos.p-5.mb-5
       .col-lg-11(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img57.svg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img57.svg', alt="Muestra imagen de la cadena de valor donde describe:<br>Actividades de soporte<br>-Infraestructura de la empresa<br>-Gestión de recursos humanos<br>-Desarrollo de tecnología<br>-Compras<br>Actividades primarias<br>-Logística de entrada<br>-Operaciones<br>-Logística de salida<br>-Marketing y ventas<br>-Servicio")
     
     p.mb-5(data-aos="fade-right") Esta metodología divide las actividades productivas desarrolladas por la empresa en primarias y secundarias, como se explica en la siguiente figura:
     
@@ -598,10 +598,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-4.col-md-6.mb-md-0.mb-4(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema1/img60.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img60.svg', alt="Muestra texto de actividades primarias: <br>todas aquellas especificas de su actividad y fundamentales para desarrollar su producto/servicio")
       .col-xl-4.col-md-6(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema1/img61.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img61.svg', alt="Muestra texto actividades secundarias:<br>Aquellas que soportan las primeras y necesariamente se desarrollan en cualquier empresa, independientemente de su sector de actividad como recursos humanos o contabilidad.")
 
     p.mb-5(data-aos="fade-right") Porter describe las actividades primarias como las directamente vinculadas a la producción y distribución de productos/servicios que generan valor para el cliente, fundamentalmente logística de entrada, operaciones, logística de salida, ventas, #[em marketing] y servicio. En este modelo analítico se hace uso del #[em benchmarking], comparando los procesos de su negocio con los de los competidores y así identificar fuentes de ventaja competitiva.
     

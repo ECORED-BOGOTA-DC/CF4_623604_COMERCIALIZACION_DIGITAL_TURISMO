@@ -45,7 +45,7 @@
                 ul.lista-ul--color
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    p <em>Web</em> de la propiedad.
+                    p Web de la propiedad.
                   li
                     i.fas.fa-check(style="color: #ED7D41")
                     p Agencias de viaje <em>online</em> (OTA’s).
@@ -73,7 +73,7 @@
           h5 Figura 6. 
           span Ecosistema de distribución hotelera
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img05.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema4/img05.svg', alt="Muestra imagen de ecosistema de distribución hotelera, canales de reserva<br>En la figura se observa una estructura de distribución de un hotel, en el que hay canales directos e indirectos contextualizados en la parte inferior")
           figcaption.text-center Nota. <span style="font-weight: 400">Elaborado por Harbey Castelblanco.</span>
       .col-lg-10.bg6.p-4(data-aos="fade-right")
         p.text-center.mb-0 En la figura se observa una estructura de distribución de un hotel, en el que hay canales directos e indirectos. 
@@ -105,14 +105,14 @@
       .py-3.py-md-4(titulo="Fragmentación")
         .row.justify-content-center
           .col-lg-8.order-lg-1.order-2
-            p En los últimos tiempos con la proliferación de dispositivos <em>(smartphone, tablet, PC, smartTV</em> y más), sistemas operativos <em>(IOS, Android, Windows)</em> y plataformas <em>(Twitter, Facebook, Google, TikTok</em>, etc.), que hacen tener una presencia unificada en el ecosistema digital sea cada vez más complejo y costoso.
+            p En los últimos tiempos con la proliferación de dispositivos <em>(smartphone, tablet, PC, smartTV</em> y más), sistemas operativos (IOS, Android, Windows) y plataformas (Twitter, Facebook, Google, TikTok, etc.), que hacen tener una presencia unificada en el ecosistema digital sea cada vez más complejo y costoso.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema4/img09.svg', alt="Imagen decorativa")
       .py-3.py-md-4(titulo="Transparencia")
         .row.justify-content-center
           .col-lg-8.order-lg-1.order-2
-            p El cúmulo de información accesible a unos cuantos <em>clics</em> y la multiplicación de medios, que permiten crearla y difundirla de forma simple, hacen que los modelos de negocio basados en experiencias de clientes pobres y decepcionantes tengan muy poco recorrido. En este sentido, es deber tener presente que las marcas ya no cuentan con el monopolio del mensaje, sino que los clientes reinterpretan, completan y amplifican, por lo que para lanzarse al nuevo mundo digital es necesario realizar una auditoría de la reputación de la marca para evitar incoherencias y falta de capacidad de respuesta.
+            p El cúmulo de información accesible a unos cuantos clics y la multiplicación de medios, que permiten crearla y difundirla de forma simple, hacen que los modelos de negocio basados en experiencias de clientes pobres y decepcionantes tengan muy poco recorrido. En este sentido, es deber tener presente que las marcas ya no cuentan con el monopolio del mensaje, sino que los clientes reinterpretan, completan y amplifican, por lo que para lanzarse al nuevo mundo digital es necesario realizar una auditoría de la reputación de la marca para evitar incoherencias y falta de capacidad de respuesta.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema4/img10.svg', alt="Imagen decorativa")
@@ -141,9 +141,9 @@
             img(src='@/assets/curso/tema4/img13.png', alt="Imagen decorativa")
           .row.p-4
             h4.text-dark Medios ganados
-            p.text-dark.mb-0 En este tercer caso pensamos en los resultados de acciones de Relaciones Públicas, como la publicación de una nota de prensa. La empresa no controla ni el medio ni el mensaje (El medio puede editarlo y presentarlo como considere oportuno).
+            p.text-dark.mb-0 En este tercer caso pensamos en los resultados de acciones de relaciones públicas, como la publicación de una nota de prensa. La empresa no controla ni el medio ni el mensaje (el medio puede editarlo y presentarlo como considere oportuno).
       
-    p.mb-5(data-aos="fade-right") Estas tres grandes categorías se han visto ampliadas con la eclosión de las nuevas plataformas digitales y la <em>web</em> social, dando lugar a dos nuevas como se puede ver en el siguiente recurso educativo:
+    p.mb-5(data-aos="fade-right") Estas tres grandes categorías se han visto ampliadas con la eclosión de las nuevas plataformas digitales y la web social, dando lugar a dos nuevas como se puede ver en el siguiente recurso educativo:
       
     TabsA.color-secundario.mb-5(data-aos="zoom-in")
       .tarjeta.color-secundario.p-4(titulo="Medios promocionados")
@@ -158,7 +158,7 @@
         .row.justify-content-center
           .col-lg-10.order-lg-1.order-2
             h4 Medios compartidos
-            p.mb-0 Al igual que el anterior caso, los medios compartidos están directamente vinculados a la <em>web</em> social y se encuentran a mitad de camino entre los medios propios y los ganados, tratándose fundamentalmente de ejemplos de viralización en los que un contenido publicado por una marca en su perfil corporativo es a su vez compartido y difundido por sus seguidores, que lo dan a conocer entre su propia audiencia, avalando el mensaje de la marca.
+            p.mb-0 Al igual que el anterior caso, los medios compartidos están directamente vinculados a la web social y se encuentran a mitad de camino entre los medios propios y los ganados, tratándose fundamentalmente de ejemplos de viralización en los que un contenido publicado por una marca en su perfil corporativo es a su vez compartido y difundido por sus seguidores, que lo dan a conocer entre su propia audiencia, avalando el mensaje de la marca.
           .col-lg-2.col-3.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema4/img15.svg', alt="Imagen decorativa", style="width: 120px").m-auto

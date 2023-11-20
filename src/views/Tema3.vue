@@ -53,7 +53,7 @@
               li 
                 i.fa.fa-dot-circle(style="color: #FF854E")
                 | Servicios o productos iguales o parecidos.
-            p.mb-0 Para ejemplificar en el campo hotelero, para #[em Hilton], su competencia directa es #[em Marriott].
+            p.mb-0 Para ejemplificar en el campo hotelero, para Hilton, su competencia directa es Marriott.
           .col-lg-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema3/img03.svg', alt="Imagen decorativa")
@@ -118,7 +118,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img07.svg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema3/img07.svg', alt="Muestra gráfico con niveles de competencia:<br>-local<br>-regional<br>-nacional<br>-internacional<br>se describen en la parte inferior")
       .col-lg-6(data-aos="fade-left")
         AcordionA.otroacordion2(tipo="b" clase-tarjeta="tarjeta tarjeta--azul1")
           div.px-2(titulo="Nivel internacional")
@@ -130,7 +130,7 @@
           div.px-2(titulo="Nivel local")
             p.mb-0 Por ejemplo, la empresa es una tienda de barrio. Analizar y valorar cifras de los competidores más cercanos para poder establecer un plan de acción, de choque o de lanzamiento.
           div.px-2(titulo="Nivel <em>online</em>")
-            p.mb-0 Este es un nivel en el que debe conducir un análisis focalizado en el ámbito <em>web</em>, plataformas, <em>eCommerce</em>, redes sociales.
+            p.mb-0 Este es un nivel en el que debe conducir un análisis focalizado en el ámbito web, plataformas, <em>eCommerce</em>, redes sociales.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -260,7 +260,7 @@
         p El <em>benchmarking</em> o "evaluación comparativa" ocurre alrededor del mundo, en múltiples industrias y en la vida diaria. Seguramente cuando va a hacer una compra, antes de comprar, primero investiga un poco y compara los productos en cuanto a características, precio y calidad, esto en esencia es <em>benchmarking</em>. Esta disciplina es muy relevante en la industria turística, donde constituye la base de trabajo para la analítica de desempeño, el <em>business intelligence</em> y el <em>revenue management.</em>
         .cajon.color-secundario.p-4.mb-4.mt-4.fondo1
           p.mb-0 El <em>benchmarking</em> se puede definir como el proceso ordenado y sistemático de recopilar, crear, comparar y analizar indicadores clave de desempeño de su empresa en relación con la competencia. El proceso de <em>benchmarking</em> en la industria hotelera se basa en datos históricos y crea tendencias que ayudan a entender el mercado y el contexto en el que se opera.
-        p.mb-0 Como se mencionó el <em>benchmarking</em> está presente en muchas industrias, pero se tomará la industria hotelera como marco de referencia para describir y entender sus características. Es oportuno mencionar que el referente mundial en <em>benchmarking</em> hotelero es la compañía STR (acrónimo de Smith Travel Research) que posee la base de datos históricos más completa del sector hotelero y como explican en su página <em>web</em> #[a(href="https://str.com/"  target='_blank') https://str.com] proporcionan datos confidenciales, precisos y aplicables, por medio de reportes integrales que permiten a los clientes elaborar estrategias y competir dentro de sus mercados.
+        p.mb-0 Como se mencionó el <em>benchmarking</em> está presente en muchas industrias, pero se tomará la industria hotelera como marco de referencia para describir y entender sus características. Es oportuno mencionar que el referente mundial en <em>benchmarking</em> hotelero es la compañía STR (acrónimo de Smith Travel Research) que posee la base de datos históricos más completa del sector hotelero y como explican en su página web #[a(href="https://str.com/"  target='_blank') https://str.com] proporcionan datos confidenciales, precisos y aplicables, por medio de reportes integrales que permiten a los clientes elaborar estrategias y competir dentro de sus mercados.
    
     p(data-aos="fade-right") Para contextualizar y resumir el <em>benchmarking</em> la siguiente figura ofrece una descripción de sus principales características.
     
@@ -269,9 +269,9 @@
         .col-lg-10.py-5
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
             h5 Figura 5. 
-            span Características del benchmarking
+            span Características del #[em benchmarking]
           figure(data-aos="zoom-in")
-            img(src='@/assets/curso/tema3/img15.svg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema3/img15.svg', alt="Muestra texto de características del benchmarking:<br>Es un proceso técnico y sistemático de análisis de datos, que proporciona un punto de referencia para analizar el rendimiento<br>Es un procedimiento de investigación, que debe ser continuo y que proporciona datos relevantes para la toma de decisiones.<br>Consiste en realizar una comparación del desempeño (KPI - Key Performance Indicator) propios con respecto a otros hoteles (set competitivo), que se establecen bajo parámetros preestablecidos (ubicación, el precio, los servicios que ofrece, las acciones de marketing que realiza).<br>Una vez realizadas las comparaciones, el siguiente paso consistiría en trazar estrategias en pos de mejorar el rendimiento propio.<br>Luego se debe monitorear el desempeño y de ser necesario corregir la estrategia para continuar con el ciclo.")
     
     .row.justify-content-center.align-items-center.fondo13.ampliarambos.p-5
       .col-lg-6.col-10.mb-4(data-aos="fade-right")
@@ -281,13 +281,13 @@
         ul.lista-ul
           li(data-aos="fade-left")
             i.fas.fa-check(style="color: #ED7D41")
-            p.mb-0 Índice de penetración de mercado - <span style="color:#EB6F2D!important; font-weight:bold;">MPI</span> <em>(Market Penetration Index)</em> o Índice de ocupación.
+            p.mb-0 Índice de penetración de mercado - <span style="color:#EB6F2D!important; font-weight:bold;">MPI</span> (Market Penetration Index) o Índice de ocupación.
           li(data-aos="fade-left")
             i.fas.fa-check(style="color: #ED7D41")
-            p.mb-0 Índice medio de precio - <span style="color:#EB6F2D!important; font-weight:bold;">ARI</span> <em>(Average Rate Index)</em> o Índice de tarifa promedio.
+            p.mb-0 Índice medio de precio - <span style="color:#EB6F2D!important; font-weight:bold;">ARI</span> (Average Rate Index) o Índice de tarifa promedio.
           li(data-aos="fade-left")
             i.fas.fa-check(style="color: #ED7D41")
-            p.mb-0 Índice de ingreso generado - <span style="color:#EB6F2D!important; font-weight:bold;">RGI</span> <em>(Revenue Generation Index) o Indice de RevPar</em>.
+            p.mb-0 Índice de ingreso generado - <span style="color:#EB6F2D!important; font-weight:bold;">RGI</span> (Revenue Generation Index) o Indice de RevPar.
       .col-lg-6.order-lg-1.order-2
         p(data-aos="fade-right") Estos índices se generan en la comparación del #[span.etiqueta #[b desempeño propio vs. el desempeño del set competitivo]] y referido a los tres indicadores clave del desempeño hotelero.
         ul.lista-ul
@@ -312,14 +312,14 @@
             .col-lg-2
               img.tamimg(src='@/assets/curso/tema3/img19.svg', alt="Imagen decorativa")
             .col-lg-8
-              p.mb-0 #[b En Marketing digital]: Google trends, Alexa, SEMRush
+              p.mb-0 #[b En #[em marketing digital]]: Google trends, Alexa, SEMRush
       .col-lg-5(data-aos="fade-left")
         .bg3.p-4.h-100
           .row.align-items-center
             .col-lg-2
               img.tamimg(src='@/assets/curso/tema3/img19.svg', alt="Imagen decorativa")
             .col-lg-8
-              p.mb-0 #[b En Hotelería]: <em>STAR (STAR Report)</em>
+              p.mb-0 #[b En Hotelería]: STAR (STAR Report)
     
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="flip-up")
