@@ -96,7 +96,7 @@
                 p.mb-0 Una vez planteado el objetivo debe asegurarse de qué forma va a conocer la medida, es decir, establecer un indicador que  permita medir el objetivo. 
               li
                 i.fas.fa-check(style="color: #ED7D41")
-                p.mb-0 Los indicadores o KPI #[em (Key Performance Indicator)] por sus siglas en inglés, son el método idóneo.
+                | Los indicadores o KPI (Key Performance Indicator) por sus siglas en inglés, son el método idóneo.
               li
                 i.fas.fa-check(style="color: #ED7D41")
                 p.mb-0 Para este caso puntual una herramienta como Google Analytics podría dar la información del número de visitas a nuestra web, si este número aumentó en un período de tiempo y con estos cálculos saber si esas visitas se convirtieron en ventas y se logró el objetivo de aumentar los ingresos por el canal web.
@@ -312,12 +312,12 @@
             p.mb-0 Tras haber revisado el plan de negocios de su emprendimiento o negocio, a la luz de las diferentes herramientas descritas en los puntos anteriores. Haber clarificado cuál es su propuesta de valor y los segmentos de clientes a los que se dirige, ha llegado el momento de comprender si el posicionamiento y diferenciación de su marca son coherentes y eficaces para alcanzar los objetivos estratégicos definidos.
     
     p(data-aos="fade-right") A medida que la globalización expande los mercados con clientes hiperconectados y cada vez más informados, se hace más difícil posicionarse en la mente del cliente. Encontrar ese factor diferencial que hace que consuman el producto o servicio, debe ser una preocupación constante de los empresarios.
-    p.mb-5(data-aos="fade-right") Es por eso que se hace necesario mantener un estudio y análisis juicioso y permanente sobre el mercado (clientes y competencia), y lograr comunicar efectivamente esas características diferenciales es preponderante para cualquier actividad empresarial, tanto en el posicionamiento de la marca como en el branding, como se aprecia en la siguiente tabla.
+    p.mb-5(data-aos="fade-right") Es por eso que se hace necesario mantener un estudio y análisis juicioso y permanente sobre el mercado (clientes y competencia), y lograr comunicar efectivamente esas características diferenciales es preponderante para cualquier actividad empresarial, tanto en el posicionamiento de la marca como en el #[em branding], como se aprecia en la siguiente tabla.
     
     .row.mb-5
       .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
         h5 Tabla 1.
-        span Diferencia entre posicionamiento de marca y branding
+        span Diferencia entre posicionamiento de marca y #[em branding]
       .tabla
         table
           thead(data-aos="fade-right")
@@ -337,7 +337,7 @@
                   li 
                     i.fa.fa-dot-circle(style="color: #FF854E")
                     p.mb-0 Samsung - calidad.
-              td.mb-0 Y del branding, que es el término acuñado por la industria para referirse al universo alrededor de la marca y que se constituye por materiales publicitarios, eventos, relaciones con los medios, experiencia de cliente, usabilidad del producto, servicio postventa, recomendaciones voz  a voz y acciones de comunicación coherentes con los valores del segmento de clientes al que se dirige.
+              td.mb-0 Y del #[em branding], que es el término acuñado por la industria para referirse al universo alrededor de la marca y que se constituye por materiales publicitarios, eventos, relaciones con los medios, experiencia de cliente, usabilidad del producto, servicio postventa, recomendaciones voz  a voz y acciones de comunicación coherentes con los valores del segmento de clientes al que se dirige.
     
     .row.justify-content-center.align-items-center.fondo6.p-3.mb-5
       .col-lg-8.order-lg-1.order-2
@@ -355,14 +355,14 @@
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img33.png', alt="Imagen decorativa")
     
-    p.mb-5(data-aos="fade-right") El objetivo final del branding es desarrollar un posicionamiento exitoso en la mente de los consumidores para que compren sus productos en lugar de los de la competencia.
+    p.mb-5(data-aos="fade-right") El objetivo final del #[em branding] es desarrollar un posicionamiento exitoso en la mente de los consumidores para que compren sus productos en lugar de los de la competencia.
     
     .row.justify-content-center.aling-items-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img34.png', alt="Imagen decorativa")
       .col-lg-6(data-aos="fade-left")
         .cajon.color-secundario.fondo1.p-4.mb-4
-          p.mb-0 El branding es un proceso mientras que el posicionamiento es un resultado. Todos los productos tienen una marca o logo hoy en día; pero solamente unos pocos han logrado posicionarse en la mente de los consumidores. No es sencillo pero el posicionamiento es lo que permitirá que los consumidores estén dispuestos a pagar más por su marca o a elegirla frente a la competencia.
+          p.mb-0 El #[em branding] es un proceso mientras que el posicionamiento es un resultado. Todos los productos tienen una marca o logo hoy en día; pero solamente unos pocos han logrado posicionarse en la mente de los consumidores. No es sencillo pero el posicionamiento es lo que permitirá que los consumidores estén dispuestos a pagar más por su marca o a elegirla frente a la competencia.
         p.mb-0 Luego de haber estudiado a fondo las líneas estratégicas, tener los objetivos establecidos y un panorama estratégico, el plan de mercadeo digital se adentra en el mercadeo operativo, es decir, en convertir las estrategias en acciones concretas.
     
     p.mb-5(data-aos="fade-right") La siguiente figura aclara un poco más cómo ha sido la evolución de herramientas en el #[em marketing], para continuar con una explicación más detallada posteriormente:
@@ -375,39 +375,29 @@
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img35.svg', alt="Imagen que muestra 4 iconos con las herramientas en el marketing y se describen en la parte inferior")
     
-    p.mb-5(data-aos="fade-right") Para lograr estructurar este apartado se debe hablar del concepto de #[span.etiqueta #[em marketing mix] o mezcla de mercadeo, que se define como el conjunto de herramientas sobre las que se concretan los objetivos y metas.] Estas variables se identifican como las 4 P del mercadeo por su nombre en inglés, estas fueron denominadas así por <span style="color:#EB6F2D!important; font-weight:bold;">Jerome McCarthy</span> en 1960 y se encuentran descritas en el siguiente recurso educativo: 
+    p.mb-5(data-aos="fade-right") Para lograr estructurar este apartado se debe hablar del concepto de #[span.etiqueta #[em marketing mix] o mezcla de mercadeo, que se define como el conjunto de herramientas sobre las que se concretan los objetivos y metas.] Estas variables se identifican como las 4Ps del mercadeo por su nombre en inglés, estas fueron denominadas así por <span style="color:#EB6F2D!important; font-weight:bold;">Jerome McCarthy</span> en 1960 y se encuentran descritas en el siguiente recurso educativo: 
     
     .row.ampliarambos.mb-5
       .col-12.px-0(data-aos="fade-up-left")
         ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/tema1/img36.svg', alt="Muestra infografía de las 4P, producto, precio, promoción y plaza o distribución y se describen en la parte inferior").p-5
+              img(src='@/assets/curso/tema1/img36.svg', alt="Muestra infografía de las 4Ps, producto, precio, promoción y plaza o distribución y se describen en la parte inferior").p-5
           div(x="58%" y="56.7%" tooltip="Click para leer mas..." numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-6.order-lg-1.order-2
-                h4.text-dark 1. Producto
                 p Bajo este ítem se agrupan todas las decisiones de mercadeo que configuran y adaptan el producto, con el objetivo de satisfacer las necesidades del segmento de cliente al que se dirige. Aquí se desarrollan los atributos, se resaltan los diferenciadores y se establecen las bases de su posicionamiento competitivo.
               .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/img37.svg', alt="Imagen decorativa")
           div(x="80.1%" y="54%" tooltip="Click para leer mas..." numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-6.order-lg-1.order-2
-                h4 2. Precio
                 p El precio habla del segmento al que una empresa dirige su producto o servicio. Lo que determinará toda su estrategia de <em> marketing.</em> Desde allí deberá comunicar el origen del ahorro de costes que hace que puedan vender más barato que la competencia o cuál es el valor diferencial en términos de calidad de servicio y/o producto que hace que valga la pena pagar más por el producto. De los cuatro componentes del <em> marketing mix</em> es el que la empresa puede establecer de forma más rápida y permite reaccionar a cambios en la oferta de la competencia y en la propia estructura de costes.
               .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/img38.svg', alt="Imagen decorativa")
           div(x="78.5%" y="26%" tooltip="Click para leer mas..." numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-6.order-lg-1.order-2
-                h4 3. Promoción 
-                p En este apartado se habla de las acciones necesarias para poner el producto al alcance del cliente y poder venderlo. Integra todas las actividades logísticas y los diferentes canales de distribución disponibles (propios como una tienda #[em online] en la web corporativa o de terceros como las ventas a través de Marketplace). 
-              .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-                img(src='@/assets/curso/tema1/img40.svg', alt="Imagen decorativa")
-          div(x="58%" y="32%" tooltip="Click para leer mas..." numero="+")
-            .row.justify-content-center.align-items-center
-              .col-lg-6.order-lg-1.order-2
-                h4.text-dark 4. Punto de distribución 
                 p.text-dark Hay que construir un mensaje coherente y que pueda difundir eficazmente para atraer hacia los canales de venta el segmento de público que se ha definido como objetivo, destacando en la comunicación las características y beneficios del producto, así como sus valores de marca. Las acciones de promoción se subdividen a su vez en:
                 .col-lg-10
                     ul.lista-ul.ms-3
@@ -426,6 +416,13 @@
                         p.mb-0 <em>Merchandising.</em>
               .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/img39.svg', alt="Imagen decorativa")
+          div(x="58%" y="32%" tooltip="Click para leer mas..." numero="+")
+            .row.justify-content-center.align-items-center
+              .col-lg-6.order-lg-1.order-2
+                p En este apartado se habla de las acciones necesarias para poner el producto al alcance del cliente y poder venderlo. Integra todas las actividades logísticas y los diferentes canales de distribución disponibles (propios como una tienda #[em online] en la web corporativa o de terceros como las ventas a través de marketplace). 
+              .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
+                img(src='@/assets/curso/tema1/img40.svg', alt="Imagen decorativa")
+          
     
     p.mb-5(data-aos="fade-right") De estas 4 herramientas a ninguna se le atribuye una mayor importancia, ya que en las múltiples combinaciones son las que configuran el #[em marketing mix] específico de cada empresa, debiendo ser este coherente con la estrategia trazada.
     
@@ -435,13 +432,13 @@
           .col-lg-9.order-lg-1.order-2
             h4 <span style="background-color: #D4EEFF; padding: 5px">Ejemplo</span>
             p El hotel ABC puede decidir centrar todos sus esfuerzos digitales en promocionar únicamente planes fin de semana <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> con un importante descuento <span style="color:#EB6F2D!important; font-weight:bold;">(precio)</span>, utilizando exclusivamente #[e Google AdWords] <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span> a través de su página web <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> para fortalecer las ventas del fin de semana. 
-            p.mb-0 Mientras que el hotel XYZ ha optado por ofrecer todo su portafolio completo <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> a través de un #[em marketplace] <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> al mismo precio de su sitio web (precio), presentando este nuevo proyecto mediante un gran evento con #[em bloggers] y periodistas <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span>.
+            p.mb-0 Mientras que el hotel XYZ ha optado por ofrecer todo su portafolio completo <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> a través de un marketplace <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> al mismo precio de su sitio web (precio), presentando este nuevo proyecto mediante un gran evento con #[em bloggers] y periodistas <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span>.
           .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img41.png', alt="Imagen decorativa")
         .row.justify-content-center
           .cajon.puntacajon.bg3.sombracajon.p-4
-            h4 Evolución de las 4 P en el #[em marketing mix]
-            p.mb-0 Así como ha evolucionado el internet y la metamorfosis de los clientes, el mercado también ha tenido una transformación, tomando como base la conceptualización de las cuatro (4) P’s, de McCarthy, otros autores han ido añadiendo valor y variables a este concepto de acuerdo a las perspectivas y enfoques de cada uno.
+            h4 Evolución de las 4Ps en el #[em marketing mix]
+            p.mb-0 Así como ha evolucionado el internet y la metamorfosis de los clientes, el mercado también ha tenido una transformación, tomando como base la conceptualización de las cuatro (4) Ps, de McCarthy, otros autores han ido añadiendo valor y variables a este concepto de acuerdo a las perspectivas y enfoques de cada uno.
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img42.png', alt="Imagen decorativa")
@@ -480,7 +477,7 @@
     
     .row.justify-content-center.bg3.p-4.mb-5
       .col-lg-11(data-aos="flip-up") 
-        p.mb-0 A principios de los años 80 los autores Bernard Booms y Mary Bitner extendieron el #[em marketing mix] del modelo conocido tradicional de las 4 P de McCarthy a un modelo de 7 P.
+        p.mb-0 A principios de los años 80 los autores Bernard Booms y Mary Bitner extendieron el #[em marketing mix] del modelo conocido tradicional de las 4Ps de McCarthy a un modelo de 7 P.
     
     p.mb-5(data-aos="fade-right") Ellos incorporaron tres nuevos elementos como son: personas <span style="color:#EB6F2D!important; font-weight:bold;"><em>(people)</em></span>, procesos <span style="color:#EB6F2D!important; font-weight:bold;"><em>(process)</em></span> y evidencia física <span style="color:#EB6F2D!important; font-weight:bold;"><em>(physical evidence)</em></span>. Según explican los autores esta extensión del modelo se enfocó en la humanización del servicio al tratar temas como las políticas de atención al cliente y una mayor interacción e información con el cliente. Vea estos nuevos componentes del <em>mix</em>  un poco más a fondo.
     
@@ -525,7 +522,7 @@
             figure
               img(src='@/assets/curso/tema1/img52.png', alt="Imagen decorativa")
     
-    p(data-aos="fade-right") Estas 7P’s son la nueva energía de las empresas y en el mercadeo digital son un insumo prevalente para lograr la eficiencia, herramientas como Google Analytics, Google Trends, GMetrix y muchas otras son de uso necesario en la batalla por conseguir y mantener a sus clientes.
+    p(data-aos="fade-right") Estas 7Ps son la nueva energía de las empresas y en el mercadeo digital son un insumo prevalente para lograr la eficiencia, herramientas como Google Analytics, Google Trends, GMetrix y muchas otras son de uso necesario en la batalla por conseguir y mantener a sus clientes.
     
     separador
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
