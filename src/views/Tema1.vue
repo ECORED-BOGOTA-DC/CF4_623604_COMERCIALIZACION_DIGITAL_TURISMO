@@ -90,7 +90,7 @@
             ul.lista-ul
               li
                 i.fas.fa-check(style="color: #ED7D41")
-                p.mb-0 “Aumentar las visitas a la página web y aumentar el 10% las ventas por el canal web”
+                p.mb-0 “Aumentar las visitas a la página web y aumentar el 10 % las ventas por el canal web”
               li
                 i.fas.fa-check(style="color: #ED7D41")
                 p.mb-0 Una vez planteado el objetivo debe asegurarse de qué forma va a conocer la medida, es decir, establecer un indicador que  permita medir el objetivo. 
@@ -419,7 +419,7 @@
           div(x="58%" y="32%" tooltip="Click para leer mas..." numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-6.order-lg-1.order-2
-                p En este apartado se habla de las acciones necesarias para poner el producto al alcance del cliente y poder venderlo. Integra todas las actividades logísticas y los diferentes canales de distribución disponibles (propios como una tienda #[em online] en la web corporativa o de terceros como las ventas a través de marketplace). 
+                p En este apartado se habla de las acciones necesarias para poner el producto al alcance del cliente y poder venderlo. Integra todas las actividades logísticas y los diferentes canales de distribución disponibles (propios como una tienda #[em online] en la web corporativa o de terceros como las ventas a través de #[em marketplace]). 
               .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/img40.svg', alt="Imagen decorativa")
           
@@ -432,7 +432,7 @@
           .col-lg-9.order-lg-1.order-2
             h4 <span style="background-color: #D4EEFF; padding: 5px">Ejemplo</span>
             p El hotel ABC puede decidir centrar todos sus esfuerzos digitales en promocionar únicamente planes fin de semana <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> con un importante descuento <span style="color:#EB6F2D!important; font-weight:bold;">(precio)</span>, utilizando exclusivamente #[e Google AdWords] <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span> a través de su página web <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> para fortalecer las ventas del fin de semana. 
-            p.mb-0 Mientras que el hotel XYZ ha optado por ofrecer todo su portafolio completo <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> a través de un marketplace <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> al mismo precio de su sitio web (precio), presentando este nuevo proyecto mediante un gran evento con #[em bloggers] y periodistas <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span>.
+            p.mb-0 Mientras que el hotel XYZ ha optado por ofrecer todo su portafolio completo <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> a través de un #[em marketplace] <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> al mismo precio de su sitio web (precio), presentando este nuevo proyecto mediante un gran evento con #[em bloggers] y periodistas <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span>.
           .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img41.png', alt="Imagen decorativa")
         .row.justify-content-center
