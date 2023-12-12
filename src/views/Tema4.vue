@@ -68,12 +68,12 @@
     p.mb-5(data-aos="fade-right")  La siguiente figura clarifica aún más este proceso “decisorio” de clientes, de acuerdo con el interés que manifiesten en su escogencia. 
 
     .row.justify-content-center.ampliarambos.fondo10.mb-5
-      .col-lg-10.px-0
+      .col-lg-10.px-lg-0.px-4
         .titulo-sexto.color-acento-contenido(data-aos="fade-right") 
           h5 Figura 6. 
           span Ecosistema de distribución hotelera
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema4/img05.svg', alt="Muestra imagen de ecosistema de distribución hotelera, canales de reserva<br>En la figura se observa una estructura de distribución de un hotel, en el que hay canales directos e indirectos contextualizados en la parte inferior")
+          img(src='@/assets/curso/tema4/img05.svg', alt="Muestra imagen de ecosistema de distribución hotelera, canales de reserva. En la figura se observa una estructura de distribución de un hotel, en el que hay canales directos e indirectos contextualizados en la parte inferior")
           figcaption.text-center Nota. <span style="font-weight: 400">Elaborado por Harbey Castelblanco.</span>
       .col-lg-10.bg6.p-4(data-aos="fade-right")
         p.text-center.mb-0 En la figura se observa una estructura de distribución de un hotel, en el que hay canales directos e indirectos. 

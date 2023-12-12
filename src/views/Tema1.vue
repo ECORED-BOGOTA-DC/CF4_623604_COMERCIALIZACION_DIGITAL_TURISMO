@@ -74,7 +74,7 @@
       .col-lg-11
         p(data-aos="fade-right") Para lograr el cometido de establecer objetivos claros, pero sobre todo realistas y cumplibles, se apoyará en la técnica SMART (Jiménez, 2021), que proviene de un acrónimo en inglés que significa: 
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img06.svg', alt="Muestra técnica Smart donde cada letra identifica Que? Cuanto? Como? Con que? Cuando?<br>OBJETIVOS<br>-Específicos<br>-Medibles<br>-Alcanzable<br>-Realista<br>-Tiempo")
+          img(src='@/assets/curso/tema1/img06.svg', alt="Muestra técnica Smart donde cada letra identifica Que? Cuanto? Como? Con que? Cuando?. OBJETIVOS. -Específicos. -Medibles. -Alcanzable. -Realista. -Tiempo")
     
     p.mb-5(data-aos="fade-right") Para lograr establecer los objetivos de mercadeo bajo la técnica SMART, en el siguiente recurso educativo podrá ver ejemplos de un caso aplicado a la industria turística (hotel).
     
@@ -318,9 +318,9 @@
       .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
         h5 Tabla 1.
         span Diferencia entre posicionamiento de marca y #[em branding]
-      .tabla
-        table
-          thead(data-aos="fade-right")
+      .tabla-a.color-secundario
+        table(alt="Texto alternativo tabla")
+          thead(style="border-color: transparent" data-aos="fade-right")
             tr(style="background-color: #3D672F")
               th 
               th
@@ -362,7 +362,7 @@
         img(src='@/assets/curso/tema1/img34.png', alt="Imagen decorativa")
       .col-lg-6(data-aos="fade-left")
         .cajon.color-secundario.fondo1.p-4.mb-4
-          p.mb-0 El #[em branding] es un proceso mientras que el posicionamiento es un resultado. Todos los productos tienen una marca o logo hoy en día; pero solamente unos pocos han logrado posicionarse en la mente de los consumidores. No es sencillo pero el posicionamiento es lo que permitirá que los consumidores estén dispuestos a pagar más por su marca o a elegirla frente a la competencia.
+          p.mb-0 El #[em branding] es un proceso, mientras que el posicionamiento es un resultado. Todos los productos tienen una marca o logo hoy en día; pero solamente unos pocos han logrado posicionarse en la mente de los consumidores. No es sencillo pero el posicionamiento es lo que permitirá que los consumidores estén dispuestos a pagar más por su marca o a elegirla frente a la competencia.
         p.mb-0 Luego de haber estudiado a fondo las líneas estratégicas, tener los objetivos establecidos y un panorama estratégico, el plan de mercadeo digital se adentra en el mercadeo operativo, es decir, en convertir las estrategias en acciones concretas.
     
     p.mb-5(data-aos="fade-right") La siguiente figura aclara un poco más cómo ha sido la evolución de herramientas en el #[em marketing], para continuar con una explicación más detallada posteriormente:
@@ -556,14 +556,14 @@
       .py-3.py-md-4(titulo="Amenaza de productos sustitutos")
         .row.justify-content-around
           .col-lg-6.order-lg-1.order-2
-            p La inexistencia de diferenciación real o imaginaria respecto a otros redunda en la capacidad de la empresa para atraer y retener clientes y por tanto, en su rentabilidad.
+            p La inexistencia de diferenciación real o imaginaria respecto a otros redunda en la capacidad de la empresa para atraer y retener clientes, y por tanto, en su rentabilidad.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/img55.png', alt="Imagen decorativa")
     
     .row.justify-content-center.bg3.p-4.mb-4
       .col-lg-11(data-aos="fade-right")
-        p.mb-0 Estos poderes y amenazas se entienden como la rivalidad existente entre los competidores, es decir, se interpreta como el resultado de las cuatro fuerzas anteriores, ya que como se ha mencionado antes la rentabilidad determina la competencia y por este motivo, cuanto mayor rivalidad mayor rentabilidad esperan obtener los competidores en ese mercado.
+        p.mb-0 Estos poderes y amenazas se entienden como la rivalidad existente entre los competidores, es decir, se interpreta como el resultado de las cuatro fuerzas anteriores, ya que como se ha mencionado antes, la rentabilidad determina la competencia y por este motivo, cuanto mayor rivalidad mayor rentabilidad esperan obtener los competidores en ese mercado.
     
     separador
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -584,7 +584,7 @@
     
     .row.justify-content-center.fondo2.ampliarambos.p-5.mb-5
       .col-lg-11(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img57.svg', alt="Muestra imagen de la cadena de valor donde describe:<br>Actividades de soporte<br>-Infraestructura de la empresa<br>-Gestión de recursos humanos<br>-Desarrollo de tecnología<br>-Compras<br>Actividades primarias<br>-Logística de entrada<br>-Operaciones<br>-Logística de salida<br>-Marketing y ventas<br>-Servicio")
+        img(src='@/assets/curso/tema1/img57.svg', alt="Muestra imagen de la cadena de valor donde describe: Actividades de soporte. -Infraestructura de la empresa. -Gestión de recursos humanos. -Desarrollo de tecnología. -Compras. Actividades primarias. -Logística de entrada. -Operaciones. -Logística de salida. -Marketing y ventas. -Servicio")
     
     p.mb-5(data-aos="fade-right") Esta metodología divide las actividades productivas desarrolladas por la empresa en primarias y secundarias, como se explica en la siguiente figura:
     
@@ -595,10 +595,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-xl-4.col-md-6.mb-md-0.mb-4(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema1/img60.svg', alt="Muestra texto de actividades primarias: <br>todas aquellas especificas de su actividad y fundamentales para desarrollar su producto/servicio")
+          img(src='@/assets/curso/tema1/img60.svg', alt="Muestra texto de actividades primarias: . todas aquellas especificas de su actividad y fundamentales para desarrollar su producto/servicio")
       .col-xl-4.col-md-6(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema1/img61.svg', alt="Muestra texto actividades secundarias:<br>Aquellas que soportan las primeras y necesariamente se desarrollan en cualquier empresa, independientemente de su sector de actividad como recursos humanos o contabilidad.")
+          img(src='@/assets/curso/tema1/img61.svg', alt="Muestra texto actividades secundarias:. Aquellas que soportan las primeras y necesariamente se desarrollan en cualquier empresa, independientemente de su sector de actividad como recursos humanos o contabilidad.")
 
     p.mb-5(data-aos="fade-right") Porter describe las actividades primarias como las directamente vinculadas a la producción y distribución de productos/servicios que generan valor para el cliente, fundamentalmente logística de entrada, operaciones, logística de salida, ventas, #[em marketing] y servicio. En este modelo analítico se hace uso del #[em benchmarking], comparando los procesos de su negocio con los de los competidores y así identificar fuentes de ventaja competitiva.
     

@@ -118,7 +118,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema3/img07.svg', alt="Muestra gráfico con niveles de competencia:<br>-local<br>-regional<br>-nacional<br>-internacional<br>se describen en la parte inferior")
+        img(src='@/assets/curso/tema3/img07.svg', alt="Muestra gráfico con niveles de competencia: -local. -regional. -nacional. -internacional. se describen en la parte inferior")
       .col-lg-6(data-aos="fade-left")
         AcordionA.otroacordion2(tipo="b" clase-tarjeta="tarjeta tarjeta--azul1")
           div.px-2(titulo="Nivel internacional")
@@ -213,7 +213,7 @@
       span <em>Tipos de estructuras de la competencia imperfecta</em>
     
     .tabla-a.color-primario.mb-5
-        thead
+        thead(style="border-color: transparent")
           tr(style="background-color: #3D672F" data-aos="fade-right")
             th.text-white Estructura de mercado
             th.text-white Número de oferentes y diferenciación
@@ -266,12 +266,12 @@
     
     .ampliarambos.fondo12.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-10.py-5
+        .col-lg-10.py-5.px-lg-0.px-4
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
             h5 Figura 5. 
             span Características del #[em benchmarking]
           figure(data-aos="zoom-in")
-            img(src='@/assets/curso/tema3/img15.svg', alt="Muestra texto de características del benchmarking:<br>Es un proceso técnico y sistemático de análisis de datos, que proporciona un punto de referencia para analizar el rendimiento<br>Es un procedimiento de investigación, que debe ser continuo y que proporciona datos relevantes para la toma de decisiones.<br>Consiste en realizar una comparación del desempeño (KPI - Key Performance Indicator) propios con respecto a otros hoteles (set competitivo), que se establecen bajo parámetros preestablecidos (ubicación, el precio, los servicios que ofrece, las acciones de marketing que realiza).<br>Una vez realizadas las comparaciones, el siguiente paso consistiría en trazar estrategias en pos de mejorar el rendimiento propio.<br>Luego se debe monitorear el desempeño y de ser necesario corregir la estrategia para continuar con el ciclo.")
+            img(src='@/assets/curso/tema3/img15.svg', alt="Muestra texto de características del benchmarking: Es un proceso técnico y sistemático de análisis de datos, que proporciona un punto de referencia para analizar el rendimiento. Es un procedimiento de investigación, que debe ser continuo y que proporciona datos relevantes para la toma de decisiones. Consiste en realizar una comparación del desempeño (KPI - Key Performance Indicator) propios con respecto a otros hoteles (set competitivo), que se establecen bajo parámetros preestablecidos (ubicación, el precio, los servicios que ofrece, las acciones de marketing que realiza). Una vez realizadas las comparaciones, el siguiente paso consistiría en trazar estrategias en pos de mejorar el rendimiento propio. Luego se debe monitorear el desempeño y de ser necesario corregir la estrategia para continuar con el ciclo.")
     
     .row.justify-content-center.align-items-center.fondo13.ampliarambos.p-5
       .col-lg-6.col-10.mb-4(data-aos="fade-right")
@@ -348,7 +348,7 @@
     
     .row.justify-content-center.align-items-center.fondo13.ampliarambos.p-5.mb-5
       .col-lg-6.order-lg-1.order-2.mb-4(data-aos="fade-right")
-        p.mb-3 También conocida como segmentación de clientes o segmentación de audiencias #[span.etiqueta es un método por el cual se pueden dividir a los clientes potenciales en distintos grupos, los cuales permiten que las empresas puedan enviar mensajes personalizados a las audiencias correctas].
+        p.mb-3 También conocida como segmentación de clientes o segmentación de audiencias, #[span.etiqueta es un método por el cual se pueden dividir a los clientes potenciales en distintos grupos, los cuales permiten que las empresas puedan enviar mensajes personalizados a las audiencias correctas].
         p.mb-3 De manera general, segmentar es subdividir un mercado en subgrupos homogéneos de clientes, que demandan los mismos productos, tienen hábitos de compra similares y cumplen las siguientes condiciones:
         ul.lista-ul
           li

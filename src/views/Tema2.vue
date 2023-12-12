@@ -24,7 +24,7 @@
     
     .row.justify-content-center.ampliarambos.fondo10.px-5.mb-5
       .col-lg-8.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img02.svg', alt="Muestra texto PESTEL:<br>-Políticos<br>-Económicos<br>-Sociales<br>-Tecnológicos<br>-Ecológicos<br>-Legales")
+        img(src='@/assets/curso/tema2/img02.svg', alt="Muestra texto PESTEL: -Políticos. -Económicos. -Sociales. -Tecnológicos. -Ecológicos. -Legales")
       .col-12.bg6.p-4(data-aos="fade-left")
         p.mb-0 Este método o herramienta es usado en mercadeo para analizar y monitorear los factores del macroentorno que tienen impacto en una organización. Las resultas sirven para reconocer amenazas y debilidades, que después se utilizarán para completar un análisis DOFA. Este método de análisis externo toma su nombre de las iniciales (en inglés) de los factores externos a analizar. Para ilustrarlo mejor a continuación se exponen algunos ejemplos reales:
     
@@ -64,7 +64,7 @@
           h5 Figura 3. 
           span Matriz DOFA
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img6.svg', alt="Muestra cuadro con matriz DOFA<br>describe debilidades y fortalezas<br>Estrategias  matriz<br>Estrategias DO<br>Estrategias FO<br>Estrategias DA<br>Estrategias FA<br>Factores externos<br>Amenazas<br>oportunidades")
+          img(src='@/assets/curso/tema2/img6.svg', alt="Muestra cuadro con matriz DOFA. describe debilidades y fortalezas. Estrategias matriz. Estrategias DO. Estrategias FO. Estrategias DA. Estrategias FA. Factores externos. Amenazas. Oportunidades")
       .col-12.bg6.p-4(data-aos="fade-right")
         p.mb-0 Ahora que ya se tienen identificados los mencionados ítems, el siguiente paso es vincular en la matriz cada amenaza y oportunidad identificada en el macroentorno con las debilidades y fortalezas propias, para desarrollar líneas de actuación estratégicas específicas para guiar las actividades. 
     
@@ -80,7 +80,7 @@
           h5 Figura 4.
           span Modelo Canvas
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img07.svg', alt="Muestra texto modelo canvas<br>socios clave<br>actividades clave<br>recursos clave<br>propuesta valor<br>relación con clientes<br>canales de distribución<br>segmentos de mercado<br>estructura costos<br>flujo de ingresos")
+          img(src='@/assets/curso/tema2/img07.svg', alt="Muestra texto modelo canvas. socios clave. actividades clave. recursos clave. propuesta valor. relación con clientes. canales de distribución. segmentos de mercado. estructura costos. flujo de ingresos")
     
     p.mb-5(data-aos="fade-right") El “Business Model Canvas” fue desarrollado por Alex Osterwalder en el libro “Business Model Generation” y propone un proceso sistemático para analizar las ideas de negocio de una forma más rápida y eficaz, incrementando las oportunidades de éxito. Uno de los apartes de la introducción de esta obra expone lo siguiente:
     
@@ -91,8 +91,10 @@
             .bloque-texto-b.color-primario.p-4
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
-                h4.mb-0 “Hoy en día nacen con frecuencia innovadores modelos de negocio e industrias totalmente nuevas que sustituyen a otras que se van desmoronando. Las empresas emergentes <em>(startups)</em> desafían a la vieja guardia, que se esfuerza febrilmente por reinventarse” (Osterwalder & Pigneur, 2011).
+                h4.mb-0 Hoy en día nacen con frecuencia innovadores modelos de negocio e industrias totalmente nuevas que sustituyen a otras que se van desmoronando. Las empresas emergentes <em>(startups)</em> desafían a la vieja guardia, que se esfuerza febrilmente por reinventarse.
                 i.fas.fa-quote-right
+              .bloque-texto-d__autor
+                .h5.mb-0 Osterwalder & Pigneur, 2011
     
     .row.justify-content-center.px-5.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")

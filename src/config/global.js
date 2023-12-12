@@ -321,8 +321,6 @@ export default {
     {
       referencia:
         'Mochón, F. (2004). <em>Economía y turismo: prácticas</em>. McGraw-Hill España.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/50066?page=75',
     },
     {
       referencia:
@@ -405,7 +403,7 @@ export default {
           nombre: 'María Inés Machado López',
           cargo: 'Diseñador instruccional',
           centro:
-            'Regional Norte de Santander - Centro de la industria, la empresa y los servicios',
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
         },
         {
           nombre: 'Carolina Coca Salazar',
