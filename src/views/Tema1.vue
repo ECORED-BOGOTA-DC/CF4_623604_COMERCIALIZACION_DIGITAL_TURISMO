@@ -337,7 +337,7 @@
                   li 
                     i.fa.fa-dot-circle(style="color: #FF854E")
                     p.mb-0 Samsung - calidad.
-              td.mb-0 Y del #[em branding], que es el término acuñado por la industria para referirse al universo alrededor de la marca y que se constituye por materiales publicitarios, eventos, relaciones con los medios, experiencia de cliente, usabilidad del producto, servicio postventa, recomendaciones voz  a voz y acciones de comunicación coherentes con los valores del segmento de clientes al que se dirige.
+              td.mb-0 Y del #[em branding], que es el término acuñado por la industria para referirse al universo alrededor de la marca y que se constituye por materiales publicitarios, eventos, relaciones con los medios, experiencia de cliente, usabilidad del producto, servicio posventa, recomendaciones voz  a voz y acciones de comunicación coherentes con los valores del segmento de clientes al que se dirige.
     
     .row.justify-content-center.align-items-center.fondo6.p-3.mb-5
       .col-lg-8.order-lg-1.order-2
@@ -487,7 +487,7 @@
           .col-lg-6.order-lg-1.order-2
             h4 (P5) Personas <em>(People)</em>
             p Como parte del concepto de humanización del servicio, el recurso humano es un elemento fundamental en el trato con el consumidor y como resultado de este en la gestión de ventas del producto o servicio. 
-            p.mb-0 En la industria turística un servicio enfocado a personas es aún más relevante, cuesta trabajo imaginar una empresa turística (hotel, restaurante, agencia de viajes) sin personal que garantice que el servicio que se presta, cómo está planeado. En todas las industrias y en especial en la que atañe, la asistencia al cliente, el servicio postventa, la interacción con telemercadeo y por las redes sociales son ejemplos donde el cliente entra en contacto con una persona. Es por ende la formación de estos en el manejo y afinidad con el cliente lo que marca la diferencia en el servicio al cliente y su posicionamiento.
+            p.mb-0 En la industria turística un servicio enfocado a personas es aún más relevante, cuesta trabajo imaginar una empresa turística (hotel, restaurante, agencia de viajes) sin personal que garantice que el servicio que se presta, cómo está planeado. En todas las industrias y en especial en la que atañe, la asistencia al cliente, el servicio posventa, la interacción con telemercadeo y por las redes sociales son ejemplos donde el cliente entra en contacto con una persona. Es por ende la formación de estos en el manejo y afinidad con el cliente lo que marca la diferencia en el servicio al cliente y su posicionamiento.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/img48.png', alt="Imagen decorativa")
